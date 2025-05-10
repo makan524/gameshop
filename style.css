@@ -1,0 +1,134 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #6A00FF;
+    height: 132px;
+    font-size: 30px;
+
+}
+.gameshop{
+    font-family:initial;
+    font-size: 40px;
+    margin: 30px;
+  
+}
+.game{
+    padding-right: 40px;
+   font-family:initial;
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body{
+    background-color: #D7CAFF;
+ 
+}
+.stalker{
+ background-color: #C8B7FF;
+ border-radius: 5px;   
+}
+.left{
+    width:460px;
+    padding: 38px;
+
+}
+.left h1{
+    background-color: white;
+    border-radius: 17px;
+    padding: 11px 34px 49px 9px;
+}
+.left h1::after{
+    content: url(https://learn.logikaschool.com/uploads/student/1315719/6803581424ba3.jpg);
+    width: 50px;
+    height: 50px;
+    
+    position:absolute;
+    left: 470px;
+ 
+}
+.left div{
+    background-color:#8D6CF8;
+    width: 143px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #ffffff;
+    border-radius: 17px;
+    position: relative;
+    left: 220px;
+    bottom: 60px;
+    padding: 3px 47px 0px 24px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+div span{
+    position: relative;
+    left: 20px;
+    font-size: 19px;
+}
+img{
+    border-radius: 17px;
+}
+.shop{
+    background-color: #C8B7FF;
+
+    border-radius: 18px;
+    margin: 30px;
+    display: flex;
+}
+.right p{
+text-align: right;
+
+height: 300px;
+width: 400px;
+font-size: 22px;
+}
+
+
+.vidgyk {
+background-color: #c5b4ff;
+height: 350px;
+padding: 20px;
+font-size: 18px;
+font-style: italic;
+border-radius: 10px;
+margin: 10px;
+
+}
+.pronasleft{
+display:flex;
+   padding: 10px;
+   flex-direction: column;
+   width: 60%;
+}
+
+footer{
+    background-color:#8D6CF8;
+    border-radius: 10px;
+   padding: 10px;
+   display: flex;
+
+}
+.pronaspravo{
+
+    
+}
+p footer{
+    width: 200px;
+}
